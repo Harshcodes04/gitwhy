@@ -20,5 +20,9 @@
   "homepage": "https://github.com/Harshcodes04/gitwhy#readme",
   "bin": {
     "gitwhy": "./cli.js"
+  },
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.6.2"
   }
 }
